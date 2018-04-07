@@ -16,7 +16,11 @@ resume_contact_email:           "kh.karimov96@gmail.com"
 resume_contact_telephone:       "97 999 92 17 "
 resume_contact_address:         "Maksim Gorkiy, Mirzo Ulug'bek district, Tashkent "
 resume_header_contact_info: "false"
-resume_header_intro: "<p>I'am fullstack developer experienced in building websites.Now I am ready to lunch my career in a company, which has a vision on creating mobile first, user friendly projects on the web </p>"
+resume_header_intro: "<p>An accomplished Software Engineer specializing in Web development with small experience but huge knowledge in the full life cycle of the software design process, full stack development of various application in different platform and programming languages.</p>
+  <p>Telegram number:+998 97 999 92 17</p>
+  <p>Telegram number:@Reactuz</p>
+  <p>Contact  number:+998 99 865 92 17</p>
+"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,13 +42,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://mredem96.github.io/resume-first/"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/hojiakbar-karimov-890901133/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  #resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
 # Design settings
