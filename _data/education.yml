@@ -1,11 +1,14 @@
 # Degree
-- degree: College Degree, Economics
-  uni: Balikchi industrial and pedagogical college
-  year: 2012 &mdash; 2015
+- degree: Associates Degree, Business Management
+  uni: Springfield College
+  year: 1984 &mdash; 1986
+  awards:
+    - award: Quickest to fall asleep
+    - award: Fastest donut eater
+  summary: If you had any meaningful roles at college, feel free to write about them here
 
-   
-  
-
-- degree: High School 
-  uni: 5th Gymnazium
-  year: 2012
+- degree: High School Diploma
+  uni: Springfield High
+  year: 1984
+  award: Least likely to graduate College
+  summary: You can choose to have either a single or multiple awards
